@@ -1,8 +1,7 @@
-# RocketShoes Mobile
+# TDP E-Commerce Mobile
 
 **React Native App** using **Redux and Redux Saga**, **Styled Components** and **Axios**.
 
-This Mobile App serves like a clone of **Netshoes**.
 
 ## Running
 
@@ -30,6 +29,3 @@ Run the following commands to run the server:
 yarn start
 ```
 
-## Challenge Result
-
-<img alt="Main Screen" src="assets/demo.gif" height="400px" />
